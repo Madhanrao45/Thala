@@ -1,0 +1,57 @@
+{
+  "events": [
+    {
+      "title": "AISTHETICA",
+      "date": "2025-02-21",
+      "image": "images/events/aisthetica.jpg"
+    },
+    {
+      "title": "Google Expo",
+      "date": "2025-04-22",
+      "image": "images/events/google expo.jpg"
+    }
+  ],
+  "schedules": {
+    "monday": {
+      "info": "IVA, NLP, Break, EAI, DWDM, Lunch, SCM, TQM, EAI",
+      "image": "images/schedules/schelu.jpg"
+    },
+    "tuesday": {
+      "info": "TQM, DWDM, Break, SCM, IVA LAB, Lunch, IVA LAB",
+      "image": "images/schedules/schelu.jpg"
+    }
+  },
+  "directions": {
+    "cafeteria": {
+      "info": "From main gate, straight then left.",
+      "image": "images/directions/cafeteria.jfif"
+    },
+    "library": {
+      "info": "Straight from gate, right at fountain.",
+      "image": "images/directions/library.jfif"
+    },
+    "mens_hostel": {
+      "info": "Opposite basketball court.",
+      "image": "images/directions/menshostel.jpg"
+    },
+    "girls_hostel": {
+      "info": "opposite to the medical.",
+      "image": "images/directions/girlshostel.jfif"
+    },
+    "mess": {
+      "info": "Behind boys hostel.",
+      "image": "images/directions/mess.png"
+    },
+    "indoor_stadium": {
+      "info": "straight from the main gate and behind the statue",
+      "image": "images/directions/indoor.jfif"
+    }
+  },
+  "sports": {
+    "basketball_court": "images/sports/basketball.jfif",
+    "cricket_ground": "images/sports/ground.png",
+    "football_field": "images/sports/ground1.png",
+    "volleyball_court": "images/sports/volleyball.jfif",
+    "tennis_court": "images/sports/tennis.jfif"
+  }
+}
